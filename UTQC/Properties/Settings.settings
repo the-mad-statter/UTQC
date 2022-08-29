@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="UTQC.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SERVER_IP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.0.111</Value>
+    </Setting>
+    <Setting Name="SERVER_PORT_IND" Type="System.String" Scope="User">
+      <Value Profile="(Default)">27100</Value>
+    </Setting>
+    <Setting Name="SERVER_PORT_CMN" Type="System.String" Scope="User">
+      <Value Profile="(Default)">7777</Value>
+    </Setting>
+    <Setting Name="UT2004_HOME" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Unreal Anthology\UT2004</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
